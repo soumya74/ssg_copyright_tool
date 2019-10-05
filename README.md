@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-CopyrightGem::Renderer.copyright "Soumya Sengupta", "All Rights Reserved"
+SsgCopyrightTool::Renderer.copyright "Soumya Sengupta", "All Rights Reserved"
 ```
 
 ## Development
