@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CopyrightGem::Renderer.copyright "Soumya Sengupta", "All Rights Reserved"
+```
 
 ## Development
 
