@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # SsgCopyrightTool
 
 Helper for Copyright footer. Generates copyright footer with configurable name and message
