@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![](https://ruby-gem-downloads-badge.herokuapp.com/ssg_copyright_tool?color=blue)
 
 # SsgCopyrightTool
 
